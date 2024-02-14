@@ -1,31 +1,23 @@
 class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
-        vector<int> pos;
-        vector<int> neg;
         int n = nums.size();
-        for(auto it : nums)
-        {
-            if(it < 0)
-                neg.push_back(it);
-            else
-                pos.push_back(it);
-        }
-        int p=0,t=0;
-        int flag = 0;
-        for(int i=0;i<n;i++)
-        {
-            if(!flag)
-            {
-                nums[i] = pos[p++];
-                flag = !flag;
-            }
-            else
-            {
-                nums[i] = neg[t++];
-                flag = !flag;
+
+        vector<int> ans(n, 0);
+
+        int posIndex = 0, negIndex=1;
+
+        for (int i = 0; i < n; i++) {
+            if (nums[i] > 0) {
+                
+                ans[posIndex] = nums[i];
+                posIndex+=2;
+            } else {
+                ans[negIndex] = nums[i];
+                negIndex += 2;
             }
         }
-        return nums;
+
+        return ans;
     }
 };
