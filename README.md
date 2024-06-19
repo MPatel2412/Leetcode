@@ -6,15 +6,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MPatel2412/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/MPatel2412/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/MPatel2412/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 # Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/MPatel2412/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/MPatel2412/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 # Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MPatel2412/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/MPatel2412/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/MPatel2412/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 # Stack
 |  |
@@ -24,3 +27,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MPatel2412/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/MPatel2412/Leetcode/tree/master/0098-validate-binary-search-tree) |
