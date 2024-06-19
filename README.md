@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MPatel2412/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/MPatel2412/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 # Binary Search Tree
 |  |
@@ -13,4 +14,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MPatel2412/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/MPatel2412/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+# Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MPatel2412/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+# Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MPatel2412/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
