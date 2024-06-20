@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/MPatel2412/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MPatel2412/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/MPatel2412/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [1675-magnetic-force-between-two-balls](https://github.com/MPatel2412/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Binary Tree
 |  |
 | ------- |
@@ -32,3 +33,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/MPatel2412/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/MPatel2412/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MPatel2412/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+# Array
+|  |
+| ------- |
+| [1675-magnetic-force-between-two-balls](https://github.com/MPatel2412/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+# Sorting
+|  |
+| ------- |
+| [1675-magnetic-force-between-two-balls](https://github.com/MPatel2412/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
