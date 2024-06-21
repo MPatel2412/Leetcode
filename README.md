@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/MPatel2412/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MPatel2412/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 # Two Pointers
 |  |
@@ -82,4 +83,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/MPatel2412/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1138-grumpy-bookstore-owner](https://github.com/MPatel2412/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
+# String
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/MPatel2412/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
