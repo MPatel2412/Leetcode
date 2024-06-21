@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/MPatel2412/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1138-grumpy-bookstore-owner](https://github.com/MPatel2412/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1675-magnetic-force-between-two-balls](https://github.com/MPatel2412/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Sorting
 |  |
@@ -78,3 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/MPatel2412/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/MPatel2412/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
