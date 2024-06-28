@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1675-magnetic-force-between-two-balls](https://github.com/MPatel2412/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [2379-maximum-total-importance-of-roads](https://github.com/MPatel2412/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 # Monotonic Stack
 |  |
 | ------- |
@@ -96,3 +97,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/MPatel2412/Leetcode/tree/master/0733-flood-fill) |
+# Greedy
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/MPatel2412/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+# Graph
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/MPatel2412/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/MPatel2412/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
