@@ -132,4 +132,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/MPatel2412/Leetcode/tree/master/0063-unique-paths-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/MPatel2412/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/MPatel2412/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Graph
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/MPatel2412/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/MPatel2412/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
