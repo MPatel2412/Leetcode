@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/MPatel2412/Leetcode/tree/master/0063-unique-paths-ii) |
+| [1293-three-consecutive-odds](https://github.com/MPatel2412/Leetcode/tree/master/1293-three-consecutive-odds) |
 ## Matrix
 |  |
 | ------- |
