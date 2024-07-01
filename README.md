@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/MPatel2412/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/MPatel2412/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0322-coin-change](https://github.com/MPatel2412/Leetcode/tree/master/0322-coin-change) |
 ## Combinatorics
 |  |
 | ------- |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/MPatel2412/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0322-coin-change](https://github.com/MPatel2412/Leetcode/tree/master/0322-coin-change) |
 | [1293-three-consecutive-odds](https://github.com/MPatel2412/Leetcode/tree/master/1293-three-consecutive-odds) |
 ## Matrix
 |  |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/MPatel2412/Leetcode/tree/master/0322-coin-change) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/MPatel2412/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
 |  |
