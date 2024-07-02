@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/MPatel2412/Leetcode/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/MPatel2412/Leetcode/tree/master/0062-unique-paths) |
 ## Dynamic Programming
 |  |
