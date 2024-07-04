@@ -202,4 +202,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/MPatel2412/Leetcode/tree/master/0131-palindrome-partitioning) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/MPatel2412/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/MPatel2412/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
