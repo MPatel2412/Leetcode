@@ -11,38 +11,38 @@
 class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
+        ListNode *curr = head->next;
+        ListNode *prev = head;
+        int index = 1;
+        int firstIndex = 0;
+        int minDistance = INT_MAX;
+        int prevIndex = 0;
+        while(curr->next != NULL)
+        {
+            if((curr->val > curr->next->val && curr->val > prev->val) ||
+                curr->val < curr->next->val && curr->val < prev->val)
+                {
+                    if(prevIndex == 0)
+                    {
+                        firstIndex = index;
+                        prevIndex = index;
+                    }
+                    else
+                    {
+                        minDistance = min(minDistance, index - prevIndex);
+                        prevIndex = index;
+                    }
+                }
+            index++;
+            prev = curr;
+            curr = curr->next;
+        }
         vector<int> ans(2,-1);
-        vector<int> arr;
-        ListNode *temp = head;
-        while(temp != NULL)
+        if(minDistance != INT_MAX)
         {
-            arr.push_back(temp->val);
-            temp = temp->next;
+            ans[0] = minDistance;
+            ans[1] = prevIndex - firstIndex;
         }
-        vector<int> index;
-        for(int i=1; i<arr.size()-1;i++)
-        {
-            if(arr[i-1] > arr[i] && arr[i] < arr[i+1])
-            {
-                index.push_back(i);
-            }
-            if(arr[i-1] < arr[i] && arr[i] > arr[i+1])
-            {
-                index.push_back(i);
-            }
-        }
-        if(index.empty() || index.size() < 2)
-            return ans;
-        
-        ans[1] = abs(index[index.size()-1] - index[0]);
-        int mini = INT_MAX;
-        for(int i=1;i<index.size();i++)
-        {
-            mini = min(mini,index[i]-index[i-1]);
-        }
-        ans[0]=mini;
-
         return ans;
-
     }
 };
