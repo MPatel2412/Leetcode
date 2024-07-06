@@ -1,14 +1,16 @@
 class Solution {
 public:
     int passThePillow(int n, int time) {
-        int index = 1;
-        int direction = 1;
-        while(time--)
+        int fullRounds = (time)/(n-1);
+        int incomplete = time%(n-1);
+
+        if(fullRounds%2 ==0 )
         {
-            index = index + direction;
-            if(index == n || index == 1)
-                direction *= -1;
+            return incomplete + 1;
         }
-        return index;
+        else
+        {
+            return n - incomplete;
+        }
     }
 };
