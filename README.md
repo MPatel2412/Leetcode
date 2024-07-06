@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0044-wildcard-matching](https://github.com/MPatel2412/Leetcode/tree/master/0044-wildcard-matching) |
 | [0131-palindrome-partitioning](https://github.com/MPatel2412/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0208-implement-trie-prefix-tree](https://github.com/MPatel2412/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/MPatel2412/Leetcode/tree/master/0344-reverse-string) |
 | [3379-score-of-a-string](https://github.com/MPatel2412/Leetcode/tree/master/3379-score-of-a-string) |
 ## Greedy
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/MPatel2412/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MPatel2412/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/MPatel2412/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 ## Binary Search
@@ -217,4 +219,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/MPatel2412/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/MPatel2412/Leetcode/tree/master/2645-pass-the-pillow) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/MPatel2412/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/MPatel2412/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
