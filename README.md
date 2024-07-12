@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/MPatel2412/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1087-longest-arithmetic-subsequence](https://github.com/MPatel2412/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1293-three-consecutive-odds](https://github.com/MPatel2412/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1397-search-suggestions-system](https://github.com/MPatel2412/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/MPatel2412/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/MPatel2412/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/MPatel2412/Leetcode/tree/master/1803-average-waiting-time) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/MPatel2412/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/MPatel2412/Leetcode/tree/master/0344-reverse-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MPatel2412/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1397-search-suggestions-system](https://github.com/MPatel2412/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1720-crawler-log-folder](https://github.com/MPatel2412/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MPatel2412/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3379-score-of-a-string](https://github.com/MPatel2412/Leetcode/tree/master/3379-score-of-a-string) |
@@ -213,10 +215,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MPatel2412/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/MPatel2412/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1397-search-suggestions-system](https://github.com/MPatel2412/Leetcode/tree/master/1397-search-suggestions-system) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MPatel2412/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1397-search-suggestions-system](https://github.com/MPatel2412/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/MPatel2412/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Backtracking
 |  |
@@ -244,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/MPatel2412/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/MPatel2412/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1397-search-suggestions-system](https://github.com/MPatel2412/Leetcode/tree/master/1397-search-suggestions-system) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -262,4 +267,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MPatel2412/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/MPatel2412/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MPatel2412/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/MPatel2412/Leetcode/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->
