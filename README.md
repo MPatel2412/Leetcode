@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/MPatel2412/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/MPatel2412/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MPatel2412/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/MPatel2412/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2342-minimum-average-difference](https://github.com/MPatel2412/Leetcode/tree/master/2342-minimum-average-difference) |
 | [2846-robot-collisions](https://github.com/MPatel2412/Leetcode/tree/master/2846-robot-collisions) |
 ## Matrix
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/MPatel2412/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/MPatel2412/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1087-longest-arithmetic-subsequence](https://github.com/MPatel2412/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/MPatel2412/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search
 |  |
 | ------- |
@@ -275,4 +277,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/MPatel2412/Leetcode/tree/master/1397-search-suggestions-system) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/MPatel2412/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/MPatel2412/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
