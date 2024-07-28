@@ -365,5 +365,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/MPatel2412/Leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/MPatel2412/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/MPatel2412/Leetcode/tree/master/1942-primary-department-for-each-employee) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/MPatel2412/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/MPatel2412/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
