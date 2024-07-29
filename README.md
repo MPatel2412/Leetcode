@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/MPatel2412/Leetcode/tree/master/0322-coin-change) |
 | [1087-longest-arithmetic-subsequence](https://github.com/MPatel2412/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/MPatel2412/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/MPatel2412/Leetcode/tree/master/1511-count-number-of-teams) |
 ## Combinatorics
 |  |
 | ------- |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/MPatel2412/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1397-search-suggestions-system](https://github.com/MPatel2412/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/MPatel2412/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/MPatel2412/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/MPatel2412/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/MPatel2412/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/MPatel2412/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -368,4 +370,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1942-primary-department-for-each-employee](https://github.com/MPatel2412/Leetcode/tree/master/1942-primary-department-for-each-employee) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/MPatel2412/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/MPatel2412/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/MPatel2412/Leetcode/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
