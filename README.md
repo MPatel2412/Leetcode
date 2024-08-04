@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/MPatel2412/Leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/MPatel2412/Leetcode/tree/master/0044-wildcard-matching) |
 | [0131-palindrome-partitioning](https://github.com/MPatel2412/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/MPatel2412/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
