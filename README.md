@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/MPatel2412/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0063-unique-paths-ii](https://github.com/MPatel2412/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MPatel2412/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0322-coin-change](https://github.com/MPatel2412/Leetcode/tree/master/0322-coin-change) |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/MPatel2412/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/MPatel2412/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Linked List
 |  |
