@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/MPatel2412/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/MPatel2412/Leetcode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/MPatel2412/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MPatel2412/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
 | ------- |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/MPatel2412/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MPatel2412/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/MPatel2412/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MPatel2412/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -307,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1484-linked-list-in-binary-tree](https://github.com/MPatel2412/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/MPatel2412/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/MPatel2412/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MPatel2412/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
