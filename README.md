@@ -341,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/MPatel2412/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/MPatel2412/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Queue
 |  |
 | ------- |
