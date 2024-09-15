@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/MPatel2412/Leetcode/tree/master/0344-reverse-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MPatel2412/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1397-search-suggestions-system](https://github.com/MPatel2412/Leetcode/tree/master/1397-search-suggestions-system) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/MPatel2412/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1720-crawler-log-folder](https://github.com/MPatel2412/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/MPatel2412/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MPatel2412/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/MPatel2412/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1087-longest-arithmetic-subsequence](https://github.com/MPatel2412/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1207-delete-nodes-and-return-forest](https://github.com/MPatel2412/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/MPatel2412/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MPatel2412/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MPatel2412/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MPatel2412/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/MPatel2412/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/MPatel2412/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MPatel2412/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/MPatel2412/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MPatel2412/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -362,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/MPatel2412/Leetcode/tree/master/1240-stone-game-ii) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/MPatel2412/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MPatel2412/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2342-minimum-average-difference](https://github.com/MPatel2412/Leetcode/tree/master/2342-minimum-average-difference) |
 ## Stack
