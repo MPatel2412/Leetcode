@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/MPatel2412/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/MPatel2412/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1397-search-suggestions-system](https://github.com/MPatel2412/Leetcode/tree/master/1397-search-suggestions-system) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MPatel2412/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/MPatel2412/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/MPatel2412/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MPatel2412/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/MPatel2412/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/MPatel2412/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1397-search-suggestions-system](https://github.com/MPatel2412/Leetcode/tree/master/1397-search-suggestions-system) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MPatel2412/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MPatel2412/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1753-path-with-minimum-effort](https://github.com/MPatel2412/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MPatel2412/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
