@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2342-minimum-average-difference](https://github.com/MPatel2412/Leetcode/tree/master/2342-minimum-average-difference) |
 | [2411-spiral-matrix-iv](https://github.com/MPatel2412/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/MPatel2412/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MPatel2412/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MPatel2412/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MPatel2412/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/MPatel2412/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/MPatel2412/Leetcode/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MPatel2412/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MPatel2412/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MPatel2412/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MPatel2412/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/MPatel2412/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MPatel2412/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MPatel2412/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MPatel2412/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Recursion
 |  |
 | ------- |
@@ -349,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MPatel2412/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/MPatel2412/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MPatel2412/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MPatel2412/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MPatel2412/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/MPatel2412/Leetcode/tree/master/2846-robot-collisions) |
 ## Backtracking
@@ -410,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1694-make-sum-divisible-by-p](https://github.com/MPatel2412/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MPatel2412/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2342-minimum-average-difference](https://github.com/MPatel2412/Leetcode/tree/master/2342-minimum-average-difference) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MPatel2412/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Stack
 |  |
 | ------- |
@@ -431,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/MPatel2412/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/MPatel2412/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1753-path-with-minimum-effort](https://github.com/MPatel2412/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MPatel2412/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/MPatel2412/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Tree
 |  |
