@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MPatel2412/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MPatel2412/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MPatel2412/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/MPatel2412/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/MPatel2412/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/MPatel2412/Leetcode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/MPatel2412/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/MPatel2412/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MPatel2412/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MPatel2412/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/MPatel2412/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -442,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/MPatel2412/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1753-path-with-minimum-effort](https://github.com/MPatel2412/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MPatel2412/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/MPatel2412/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/MPatel2412/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Tree
 |  |
