@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/MPatel2412/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MPatel2412/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/MPatel2412/Leetcode/tree/master/1803-average-waiting-time) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/MPatel2412/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MPatel2412/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MPatel2412/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/MPatel2412/Leetcode/tree/master/2155-find-missing-observations) |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MPatel2412/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MPatel2412/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1753-path-with-minimum-effort](https://github.com/MPatel2412/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/MPatel2412/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MPatel2412/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MPatel2412/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MPatel2412/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
