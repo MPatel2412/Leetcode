@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2616-maximal-score-after-applying-k-operations](https://github.com/MPatel2412/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MPatel2412/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/MPatel2412/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/MPatel2412/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MPatel2412/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/MPatel2412/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/MPatel2412/Leetcode/tree/master/2846-robot-collisions) |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-create-binary-tree-from-descriptions](https://github.com/MPatel2412/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MPatel2412/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MPatel2412/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/MPatel2412/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MPatel2412/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MPatel2412/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MPatel2412/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -388,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MPatel2412/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MPatel2412/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MPatel2412/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/MPatel2412/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MPatel2412/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/MPatel2412/Leetcode/tree/master/2846-robot-collisions) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MPatel2412/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -420,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/MPatel2412/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/MPatel2412/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/MPatel2412/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/MPatel2412/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/MPatel2412/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/MPatel2412/Leetcode/tree/master/2846-robot-collisions) |
 ## Design
@@ -481,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MPatel2412/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/MPatel2412/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/MPatel2412/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/MPatel2412/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2803-modify-graph-edge-weights](https://github.com/MPatel2412/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Tree
 |  |
