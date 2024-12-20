@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1484-linked-list-in-binary-tree](https://github.com/MPatel2412/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/MPatel2412/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/MPatel2412/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/MPatel2412/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1484-linked-list-in-binary-tree](https://github.com/MPatel2412/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/MPatel2412/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/MPatel2412/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/MPatel2412/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -501,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1484-linked-list-in-binary-tree](https://github.com/MPatel2412/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/MPatel2412/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/MPatel2412/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/MPatel2412/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -509,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1484-linked-list-in-binary-tree](https://github.com/MPatel2412/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/MPatel2412/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/MPatel2412/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/MPatel2412/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
