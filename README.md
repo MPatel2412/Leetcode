@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/MPatel2412/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/MPatel2412/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/MPatel2412/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/MPatel2412/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2171-second-minimum-time-to-reach-destination](https://github.com/MPatel2412/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/MPatel2412/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/MPatel2412/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/MPatel2412/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
 |  |
 | ------- |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-build-a-matrix-with-conditions](https://github.com/MPatel2412/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2803-modify-graph-edge-weights](https://github.com/MPatel2412/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/MPatel2412/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/MPatel2412/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Topological Sort
 |  |
 | ------- |
@@ -510,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-create-binary-tree-from-descriptions](https://github.com/MPatel2412/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/MPatel2412/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/MPatel2412/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/MPatel2412/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
