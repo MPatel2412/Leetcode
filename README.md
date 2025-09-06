@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/MPatel2412/Leetcode/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/MPatel2412/Leetcode/tree/master/2645-pass-the-pillow) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MPatel2412/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3830-find-closest-person](https://github.com/MPatel2412/Leetcode/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
 | ------- |
